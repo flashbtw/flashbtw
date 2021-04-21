@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flashbtw
 -  Interested in IT (obviously...)
--  Learning Bash
+-  Learning Bash and Java
 -  Ongoing System-Admin
 -  Discord: flash_btw#8528
 
