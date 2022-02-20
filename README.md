@@ -2,8 +2,8 @@
 -  Interested in IT (obviously...)
 -  Languages: GER/ENG
 -  Programming / Markup Languages:  
-   ->  Intermediate: Bash, Java, JavaScript, HTML  
-   ->  Beginner: CSS, Python  
+   ->  Intermediate: Bash, Java, JavaScript, Python, HTML  
+   ->  Beginner: CSS
 -  System-Admin
 -  Discord: flash_btw#8528
 
