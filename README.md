@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @flashbtw
 -  Interested in IT (obviously...)
 -  Languages: GER/ENG
--  Programming / Markup Languages:
+-  Programming / Markup Languages:    
    ->  Kinda Pro: Java  
    ->  Intermediate: Bash, JavaScript, Python, HTML  
    ->  Beginner: CSS
